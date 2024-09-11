@@ -1,0 +1,2 @@
+
+With a working Estate Management application the development team now needs to be able to automate the build, testing and deployment of the service. This will allow the development team to continue updating the application and add features as necessary. In the long run, this setup will also allow for the front and back end to be deployed simultaneously in any environment. 
